@@ -1,0 +1,9 @@
+---
+title: "Thoughts"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+
+## Thought(s)?
