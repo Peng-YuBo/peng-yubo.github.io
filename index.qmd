@@ -17,7 +17,7 @@ about:
 
 ::: {#hero-heading}
 
-Just 4... Fun
+Just 4... Fun... More contents later
 
 
 ## Background
