@@ -1,5 +1,5 @@
 ---
-title: "Peng Yubo"
+title: "彭 育博 Peng Yubo"
 image: images/Pengyubo.jpg
 about:
   id: hero-heading
@@ -19,7 +19,7 @@ about:
 Just 4... Fun
 
 
-## Backgroundre
+## Background
 
-Coming Soon
+Economics student
 :::
