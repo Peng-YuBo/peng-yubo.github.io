@@ -1,6 +1,6 @@
 ---
 title: "彭 育博"
-title: "Peng Yubo"
+title: "PENG Yubo"
 image: images/Pengyubo.jpg
 about:
   id: hero-heading
