@@ -11,15 +11,20 @@ about:
     - icon: brands xing
       text: 小红书
       href: https://www.xiaohongshu.com/user/profile/5ed62d1d0000000001005799
-  
+    - icon: mailbox
+      text: e-mail
+      href: mailto:yubo.peng@studio.unibo.it
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/peng-yubo/
 ---
 
 ::: {#hero-heading}
 
-Just 4... Fun... More contents later
+Just 4... Fun... 
 
 
 ## Background
 
-Economics student
+LM(EC)^2
 :::
