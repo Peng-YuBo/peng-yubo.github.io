@@ -1,6 +1,6 @@
 ---
 title: "彭 育博 <br /> PENG Yubo"
-image: images/Pengyubo.jpg
+image: images/Peng.jpeg
 about:
   id: hero-heading
   template: trestles

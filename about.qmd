@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-TEST的主页
+This is a personal website built using Quarto, a powerful tool for creating dynamic documents and websites. The content of this site is generated from R Markdown files, which allow for seamless integration of code and narrative text.
