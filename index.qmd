@@ -21,9 +21,15 @@ about:
 
 ::: {#hero-heading}
 
-Incoming PhD student in Economics at University College Dublin (UCD).
+PhD student in Economics at University College Dublin (UCD), funded by the UCD School of Economics.
 
 ## Background
 
-LM(EC)^2
+I hold a Master's degree in Economics and Econometrics (LM(EC)^2, 110 cum laude) from the University of Bologna and a BSc (Hons) in International Economics and Trade from the University of Nottingham Ningbo China.
+
+My research interests are labor economics and political economics, using both theoretical and empirical approaches.
+
+## Master's Dissertation
+
+*Adoptive-Parent Wealth and Adult Household Wealth: Evidence from PSID-FIMS*
 :::
