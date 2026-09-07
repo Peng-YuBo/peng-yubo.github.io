@@ -13,7 +13,7 @@ about:
       href: https://www.xiaohongshu.com/user/profile/5ed62d1d0000000001005799
     - icon: mailbox
       text: e-mail
-      href: mailto:yubo.peng@studio.unibo.it
+      href: mailto:yubo.peng@ucdconnect.ie
     - icon: linkedin
       text: Linkedin
       href: https://www.linkedin.com/in/peng-yubo/
@@ -29,7 +29,4 @@ I hold a Master's degree in Economics and Econometrics (LM(EC)^2, 110 cum laude)
 
 My research interests are labor economics and political economics, using both theoretical and empirical approaches.
 
-## Master's Dissertation
-
-*Adoptive-Parent Wealth and Adult Household Wealth: Evidence from PSID-FIMS*
 :::

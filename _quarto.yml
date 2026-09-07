@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CV.pdf
   
 website:
   page-navigation: true
@@ -24,6 +26,8 @@ website:
         href: index.qmd
       - text: "Thoughts"
         href: Thoughts.qmd
+      - text: "CV"
+        href: CV.pdf
 
 format:
   html:
