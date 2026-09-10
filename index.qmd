@@ -17,7 +17,7 @@ about:
     - icon: linkedin
       text: Linkedin
       href: https://www.linkedin.com/in/peng-yubo/
-    - icon: cup-straw
+    - icon: untappd-app
       text: Untappd
       href: https://untappd.com/user/Peng_0813
 ---

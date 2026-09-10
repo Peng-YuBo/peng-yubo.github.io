@@ -1,0 +1,12 @@
+.about-link[href*="untappd.com"] .bi-untappd-app {
+  display: inline-block;
+  width: 1.25em;
+  height: 1.25em;
+  border-radius: 0.25em;
+  background: url("images/untappd.png") center / contain no-repeat;
+  vertical-align: -0.2em;
+}
+
+.about-link[href*="untappd.com"] .bi-untappd-app::before {
+  content: "";
+}
