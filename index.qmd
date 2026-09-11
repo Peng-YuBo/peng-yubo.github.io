@@ -1,5 +1,10 @@
 ---
-title: "彭 育博 <br /> PENG Yubo"
+title: "Peng Yubo 彭育博"
+pagetitle: "Peng Yubo 彭育博"
+description: "Peng Yubo is a PhD student in Economics at University College Dublin, with research interests in labor economics and political economics."
+format:
+  html:
+    include-in-header: index-seo.html
 image: images/Peng.jpeg
 about:
   id: hero-heading
