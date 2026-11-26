@@ -4,6 +4,7 @@ project:
   resources:
     - CV.pdf
     - googlebd242c707ef59d54.html
+    - "ss_slide/*"
   
 website:
   page-navigation: true
