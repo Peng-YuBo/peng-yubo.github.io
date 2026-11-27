@@ -9,8 +9,8 @@ image: images/Peng.jpeg
 about:
   id: hero-heading
   template: trestles
-  image-width: 12em
-  image-shape: round
+  image-width: 100%
+  image-shape: rounded
   links:
     - icon: mailbox
       text: e-mail
