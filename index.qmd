@@ -12,19 +12,12 @@ about:
   image-width: 12em
   image-shape: round
   links:
-    
-    - icon: brands xing
-      text: 小红书
-      href: https://www.xiaohongshu.com/user/profile/5ed62d1d0000000001005799
     - icon: mailbox
       text: e-mail
       href: mailto:yubo.peng@ucdconnect.ie
     - icon: linkedin
       text: Linkedin
       href: https://www.linkedin.com/in/peng-yubo/
-    - icon: untappd-app
-      text: Untappd
-      href: https://untappd.com/user/Peng_0813
 ---
 
 ::: {#hero-heading}
